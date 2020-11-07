@@ -4,7 +4,6 @@ print("Masukkan Nilai N : ")
 n=int(input())
 
 import random
-print("Random() : ", random.randrange())
 
 for x in list(range(1,n+1,1)):
-    print("Data ke: ",x,"=>")
+    print("Data ke: ",x,"=>",random.uniform(0,0.5))
