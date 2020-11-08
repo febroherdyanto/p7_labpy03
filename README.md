@@ -21,6 +21,11 @@ Pada pertemuan 7 ini saya diberi tugas oleh Dosen untuk mempelajari dan membuat 
 
 ## Tugas Latihan 1
 
+* Pada tugas kali ini saya diminta dosen untuk mengerjakan tugas **latihan1.py**, seperti gambar dibawah ini :<br>
+![Soal Latihan 1](pict/latihan1_soal.PNG)<br>
+
+
+
 
 ## Tugas Latihan 2
 
