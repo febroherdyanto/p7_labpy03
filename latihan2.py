@@ -1,4 +1,4 @@
-#Latihan 3 - Pertemuan 7
+# Praktikum 3 - Latihan 2 - Pertemuan 7
 
 print("Tugas Pertemuan 7 - Praktikum 3 - Latihan 2")
 
