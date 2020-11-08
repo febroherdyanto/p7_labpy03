@@ -64,7 +64,9 @@ Penggunaan syntax default for adalah :<br>
 * Fungsi **random.uniform()** adalah untuk menampilkan bilangan float random dengan batas awal bilangan, dan batas akhir bilangan.<br>
 Pada fungsi ini penulisan syntax random.uniform() harus diisi dengan 2 niai dialam tanda kurung. Yaitu batas awal (Nilai Terendah). <br>
 
-*
+* Pada program tersebut saya menggunakan isi dalam fungsi *range(1, n+1, 1)*, Artinya : <br>
+    1. Start saya menggunakan angka 1, karena saya ingin saat data dimuat/diproses dimulai dengan angka 1<br>
+    2. Stop saya menggunakan **n+1**, Mengapa ada n? Karena n merupakan variable dari inputan yang user masukkan. Saya menggunakan +1 karena default pada fungsi stop di range adalah nilai itu juga. Misalnya kita memasukkan nilai stop 6, maka ketika angka 6 akan berhenti, jadi yang akan ditampilkan nilai 1-2-3-4-5. Nah angka 6 kan tidak ditampilkan, sedangkan kita menginginkannya menampilkan hasil 1-2-3-4-5-6. Dengan **n+1** lah fungsi itu akan berjalan.
 
 
 
