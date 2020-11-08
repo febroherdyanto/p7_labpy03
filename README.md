@@ -10,10 +10,13 @@ Kelas : TI.20.B.1<br>
 ## Daftar Isi
 | No | Description | Hyperlink |
 | --- | --- | --- |
-| 1 | Tugas Latihan 1 | [Click Here]() |
-| 2 | Tugas Latihan 2 | [Click Here]() |
-| 3 | Tugas Program 1 | [Click Here]() |
+| 1 | Tugas Latihan 1 | [Click Here](#tugas-latihan-1) |
+| 2 | Tugas Latihan 2 | [Click Here](#tugas-latihan-2) |
+| 3 | Tugas Program 1 | [Click Here](#tugas-program-1) |
 
+<hr>
+
+Pada pertemuan 7 ini saya diberi tugas oleh Dosen untuk mempelajari dan membuat program sederhana dengan Bahasa Pemrograman Python<br>
 
 
 ## Tugas Latihan 1
