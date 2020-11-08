@@ -47,19 +47,24 @@ for x in list(range(1, n+1, 1)):
     print(f"Data ke: {x} ->",random.uniform(0, 0.5))
 ``` 
 
-Fungsi **for** disini sebagai bentuk perulangan, selain menggunakan **for** kita juga bisa menggunakan function *while*. Untuk kali ini saya menggunakan fungsi **for** pada program.<br>
+* Fungsi **for** disini sebagai bentuk perulangan, selain menggunakan **for** kita juga bisa menggunakan function *while*. Untuk kali ini saya menggunakan fungsi **for** pada program.<br>
 Penggunaan syntax default for adalah :<br>
 > for index in range(jumlahperulangan): <br>
 >     perintah_yang_diulang
 
-Sedangkan untuk *function* range terdapat syntax default dari Python, seperti berikut :<br>
+* Sedangkan untuk *function* range terdapat syntax default dari Python, seperti berikut :<br>
 > range(start, stop, step_size)<br><br>
 > Keterangan : <br>
 > **start** -> Nilai Awal<br>
 > **stop** -> Nilai Akhir<br>
 > **step_size** -> Nilai Kenaikan<br><br>
 
+* *Function list()* berfungsi untuk membuat hasil berupa daftar baris.<br>
 
+* Fungsi **random.uniform()** adalah untuk menampilkan bilangan float random dengan batas awal bilangan, dan batas akhir bilangan.<br>
+Pada fungsi ini penulisan syntax random.uniform() harus diisi dengan 2 niai dialam tanda kurung. Yaitu batas awal (Nilai Terendah). <br>
+
+*
 
 
 
