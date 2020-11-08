@@ -52,6 +52,15 @@ Penggunaan syntax default for adalah :<br>
 > for index in range(jumlahperulangan): <br>
 >     perintah_yang_diulang
 
+Sedangkan untuk *function* range terdapat syntax default dari Python, seperti berikut :<br>
+> range(start, stop, step_size)<br><br>
+> Keterangan : <br>
+> **start** -> Nilai Awal<br>
+> **stop** -> Nilai Akhir<br>
+> **step_size** -> Nilai Kenaikan<br><br>
+
+
+
 
 
 
