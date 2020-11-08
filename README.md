@@ -75,7 +75,13 @@ Hasil dari program tersebut seperti berikut :<br>
     ![Soal 8 Bilangan](pict/8bilangan.PNG)
 <br><br>
 <hr><br>
+
 ## Tugas Latihan 2
 
+Pada bagian ini saya akan menyelesaikan tugas dari Dosen dalam materi Latihan 2, seperti gambar dibawah ini :<br>
+![Soal Latihan 2](pict/soal_2.PNG)<br>
+
+
+<br><hr><br>
 
 ## Tugas Program 1
