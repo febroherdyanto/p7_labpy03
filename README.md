@@ -49,7 +49,7 @@ for x in list(range(1, n+1, 1)):
 
 Fungsi **for** disini sebagai bentuk perulangan, selain menggunakan **for** kita juga bisa menggunakan function *while*. Untuk kali ini saya menggunakan fungsi **for** pada program.<br>
 Penggunaan syntax default for adalah :<br>
-> for index in range(jumlahperulangan):
+> for index in range(jumlahperulangan): <br>
 >     perintah_yang_diulang
 
 
